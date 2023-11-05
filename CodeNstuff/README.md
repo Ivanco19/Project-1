@@ -15,7 +15,7 @@ To create this section, we used the time and areas in the database to cross refe
 - Dawn (00:00 - 05:59)
 - Morning (06:00 - 11:59)
 - Evening (12:00 - 17:59)
-- Morning (18:00 - 23:59)
+- Night (18:00 - 23:59)
 
 This allows the data to be more visually friendly and allows the user to get a general understanding of when most of the crimes occur. Findings included that the most crimes that occur in LA happen during the evening and the least amount of them occur at dawn.
 
