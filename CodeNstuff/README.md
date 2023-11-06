@@ -32,16 +32,25 @@ On the other hand, we wanted to analyze the possible relationship between the nu
 
 
 ## Results
-it was found that even it is not a crime rule there are certain victim characteristics that are more common among the reports made than others, as in the Victim Profile we can conclude that male people around 30 years old and Hispanic/Latin/Mexican are more likely to be a victim of a crime in Los Angeles City.
+It was found that even it is not a crime rule there are certain victim characteristics that are more common among the reports made than others, as in the Victim Profile we can conclude that male people around 30 years old and Hispanic/Latin/Mexican are more likely to be a victim of a crime in Los Angeles City.
 ![image](https://github.com/Ivanco19/Project-1/assets/74313815/be16b7e2-7291-4211-bd31-ef7cc62e7ae7)
 ![image](https://github.com/Ivanco19/Project-1/assets/74313815/279fb2e8-62ac-43ee-a607-b40ef0949aa9)
 ![image](https://github.com/Ivanco19/Project-1/assets/74313815/7b3a8a4c-3401-4344-bd27-2da8427be8bf)
 
+The most dangerous areas/locations are in LA and the time where most of the crimes took place where at Central followed by 7th Street, also it was found that the most vulnerable time of the day is at Evening
+![image](https://github.com/Ivanco19/Project-1/assets/74313815/9388f59e-635c-44cb-a4e1-aa408772ea5b)
+![image](https://github.com/Ivanco19/Project-1/assets/74313815/3e658d98-53c1-436f-a47e-ef4290c2cb03)
+
+Taking this information as a starting point we had the hypothesis that there must be a correlation between the day hours and the number of crimes reported, and based on the results of this test we canconclude that even it is a low one, there is a positive correlation between these elements, the later it gets, the higher the number of crimes, spetially during the evening.
+R value fot the correlatios is : r=0.74
+![image](https://github.com/Ivanco19/Project-1/assets/74313815/c57ff490-87c5-4f6a-8100-65778147bdee)
+
+Also for the correlation with the weather there is an even lower  r value  visually we can identify the outliers and the distribution and getting the r value we see a really low negative correlation.
+r value is : r=-0.54
+![image](https://github.com/Ivanco19/Project-1/assets/74313815/4d5b2d87-3923-422a-90bc-144183e0183c)
 
 
-
-
-Recommendations for future analysis
+## Recommendations for future analysis
 
 For future work with this dataset we recommend carrying out more specific or specific analyses. For example, reducing the analysis to a particular year or month, in locations where crimes occur more frequently or even for a specific sector of the population, for example the age range where people are most vulnerable to being victims of a crime. This could get interesting trends and even more accurate linear regression values.
 
