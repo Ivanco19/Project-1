@@ -30,6 +30,16 @@ It is important to mention that due to restrictions on the use of the API and to
 
 On the other hand, we wanted to analyze the possible relationship between the number of crimes and the time of day. To do this, we simply obtained the number of crimes for each hour of the day and applied linear regression to the data, getting a correlation of 75%, which, although is not a great value, gives us an idea of ​​the behavior of crimes throughout the day.
 
+
+##Results
+it was found that even it is not a crime rule there are certain victim characteristics that are more common among the reports made than others, as in the Victim Profile we can conclude that male people around 30 years old and Hispanic/Latin/Mexican are more likely to be a victim of a crime in Los Angeles City.
+![image](https://github.com/Ivanco19/Project-1/assets/74313815/be16b7e2-7291-4211-bd31-ef7cc62e7ae7)
+![image](https://github.com/Ivanco19/Project-1/assets/74313815/279fb2e8-62ac-43ee-a607-b40ef0949aa9)
+![image](https://github.com/Ivanco19/Project-1/assets/74313815/d184f334-3f86-452c-923b-2461d5e99f9f)
+
+
+
+
 Recommendations for future analysis
 
 For future work with this dataset we recommend carrying out more specific or specific analyses. For example, reducing the analysis to a particular year or month, in locations where crimes occur more frequently or even for a specific sector of the population, for example the age range where people are most vulnerable to being victims of a crime. This could get interesting trends and even more accurate linear regression values.
