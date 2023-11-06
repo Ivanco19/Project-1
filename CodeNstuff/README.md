@@ -42,10 +42,13 @@ The most dangerous areas/locations are in LA and the time where most of the crim
 ![image](https://github.com/Ivanco19/Project-1/assets/74313815/3e658d98-53c1-436f-a47e-ef4290c2cb03)
 
 Taking this information as a starting point we had the hypothesis that there must be a correlation between the day hours and the number of crimes reported, and based on the results of this test we canconclude that even it is a low one, there is a positive correlation between these elements, the later it gets, the higher the number of crimes, spetially during the evening.
-R value fot the correlatios is : r=0.74
+
+r value fot the correlatios is : r=0.74
 ![image](https://github.com/Ivanco19/Project-1/assets/74313815/c57ff490-87c5-4f6a-8100-65778147bdee)
 
 Also for the correlation with the weather there is an even lower  r value  visually we can identify the outliers and the distribution and getting the r value we see a really low negative correlation.
+The hotter it gets, the lower the amount of crimes
+
 r value is : r=-0.54
 ![image](https://github.com/Ivanco19/Project-1/assets/74313815/4d5b2d87-3923-422a-90bc-144183e0183c)
 
